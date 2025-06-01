@@ -10,8 +10,8 @@ the player has to guess a **fruit name** within 6 attempts.
 - string manipulation
 - list inndexing
 ## how to run:
-1.open 'hangman.py' in any python IDE.
-2.run the file
-3.start guessing letters!
+1. open 'hangman.py' in any python IDE.
+2. run the file
+3. start guessing letters!
 ## built with love by 
 **kirti_ramesh**
